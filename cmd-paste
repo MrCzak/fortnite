@@ -1,1 +1,1 @@
-curl -Ls "raw.githubusercontent.com/MrCzak/fortnite/main/GameUserSettings.ini" -o "C:\Users\Robert\AppData\Local\FortniteGame\Saved\Config\WindowsClient\GameUserSettings.ini"
+curl -Ls "raw.githubusercontent.com/MrCzak/fortnite/main/GameUserSettings.ini" -o "C:\Users\%username%\AppData\Local\FortniteGame\Saved\Config\WindowsClient\GameUserSettings.ini"
